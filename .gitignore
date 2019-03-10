@@ -9,6 +9,7 @@ hs_err_pid*
 .svn
 .revision
 
+
 # Eclipse
 .metadata
 .classpath
